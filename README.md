@@ -1,1 +1,2 @@
-# SA_tech_test
+# SA tech test
+![Screenshot](flowchart.png)
